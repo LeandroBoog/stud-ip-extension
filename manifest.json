@@ -1,0 +1,22 @@
+{
+  "name": "OpenPdf - StudIp",
+  "description": "Build an Extension!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "openPdf": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Y"
+      },
+      "description": "Open the Pdf on StudIp"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
