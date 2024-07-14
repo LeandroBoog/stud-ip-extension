@@ -1,5 +1,5 @@
 # stud-ip-extension
-So you dont have to download every damn pdf from stud-ip  
+Open pdf's on stud-ip on a new tab to preview instead of instantly downloading them! 
 Only on chrome though!!  
 
 ## Installation
@@ -9,7 +9,6 @@ Click on "load extension" (or similar) and upload the folder
 ## Usage
 Click on the file you want to download  
 Strg + Shift + Y to open up a new tab with the pdf  
-Alternativly you can click on the button with a 0 to achieve the same  
 
 ## Configuration 
 Open the manifest.json, under "suggested_key" change to whatever you like  
